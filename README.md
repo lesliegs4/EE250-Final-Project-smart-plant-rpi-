@@ -12,7 +12,7 @@
 Addtionally, you can also run just water.py with the commented area uncommented to try to implement your own features.
 
 ## External Libraries Used
-Our project was designed using Flask as our host server for which the Raspberry Pi would connect to. We also used the Date and Time built in libraries to track the progress of our plant over time. We connected it to the Pi via the GPIO pins to send signals and control the sensor responses. Addtionality we implemented a Raspberry Pi sense hat LED display.
+Our project was designed using Flask as our host server for which the Raspberry Pi would connect to. We also used the Date and Time built-in libraries to track the progress of our plant over time. We connected it to the Pi via the GPIO pins to send signals and control the sensor responses. Additionally, we implemented a Raspberry Pi sense hat LED display.
 
 ### :shipit:
 
