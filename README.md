@@ -11,6 +11,8 @@
 
 Addtionally, you can also run just water.py with the commented area uncommented to try to implement your own features.
 
+Full Report: https://docs.google.com/document/d/17Iwpo1NFbZuA0jkEdQmvLXxMzmgNWVJnnf5AfzsYkg4/edit?usp=sharing
+
 ## External Libraries Used
 Our project was designed using Flask as our host server for which the Raspberry Pi would connect to. We also used the Date and Time built-in libraries to track the progress of our plant over time. We connected it to the Pi via the GPIO pins to send signals and control the sensor responses. Additionally, we implemented a Raspberry Pi sense hat LED display.
 
@@ -18,4 +20,5 @@ Our project was designed using Flask as our host server for which the Raspberry 
 
 
 https://github.com/lesliegs4/EE250-Final-Project-smart-plant-rpi-/assets/122650579/c5c43cc9-575a-411b-a9d9-96323e40e00e
+
 
